@@ -1,0 +1,4 @@
+1. Describe what challenges you faced during this quiz and how you resolved them.
+ANS: There was some new terminology which i had to look up or ask AI to help describe what it meant.
+2. Explain whether AI tools were useful in helping you learn Java constructs that were new to you in this quiz.
+ANS: They were. By asking the right questions i easily learned new material.
